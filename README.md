@@ -1,4 +1,4 @@
-# Hey 👋 I'm Valerie
+# Hey 👋 I'm Valeria
 I build modern, scalable web applications with a focus on clean architecture, maintainability, and user experience. Currently working with React and TypeScript, developing SPA applications with client/server data handling, API integration, and reusable UI systems.
 
 ### I code with
